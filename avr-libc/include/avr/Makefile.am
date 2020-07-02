@@ -131,6 +131,7 @@ avr_HEADERS = \
     iom323.h \
     iom324.h \
     iom324pa.h \
+    iom324pb.h \
     iom325.h \
     iom325pa.h \
     iom3250.h \

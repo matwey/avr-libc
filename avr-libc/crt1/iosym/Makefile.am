@@ -125,6 +125,7 @@ EXTRA_DIST = \
 	atmega324a.S \
 	atmega324p.S \
 	atmega324pa.S \
+	atmega324pb.S \
 	atmega325.S \
 	atmega3250.S \
 	atmega3250a.S \
